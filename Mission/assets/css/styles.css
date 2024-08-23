@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand img {
+  height: 50px;
+}
+
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.btn {
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d6f7f7;
+}
+
+h1 {
+  color: #181919;
+}
+
+.card {
+  border: 1px solid #dddddd;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  color: #333333;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #0066cc;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+

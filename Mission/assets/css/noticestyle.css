@@ -1,0 +1,42 @@
+.notice-box h5 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.notice-box p {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.btn-primary {
+  background-color: #6f42c1;
+  border-color: #6f42c1;
+}
+
+.btn-primary:hover {
+  background-color: #5a34a3;
+  border-color: #5a34a3;
+}
+
+.text-primary {
+  color: #6f42c1 !important;
+}
+
+.modal-content {
+  border-radius: 8px;
+}
+
+.modal-header {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+  border-top: 1px solid #dee2e6;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #6f42c1;
+  color: #fff;
+  border-color: #6f42c1;
+}
+

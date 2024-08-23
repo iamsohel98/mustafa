@@ -1,0 +1,43 @@
+.event-box {
+  padding: 0;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  transition: transform 0.3s;
+}
+
+.event-box:hover {
+  transform: scale(1.05);
+}
+
+.event-box img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px 5px 0 0;
+}
+
+.event-box h5 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 10px;
+  text-align: center;
+}
+
+.event-icon {
+  font-size: 2rem;
+  color: #6f42c1;
+  margin-bottom: 10px;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.modal-body img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
